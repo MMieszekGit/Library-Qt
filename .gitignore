@@ -1,0 +1,6 @@
+/build*/
+*.user
+*.pro.user*
+*.qbs.user*
+CMakeLists.txt.user*
+*/.qtc_clangd/
